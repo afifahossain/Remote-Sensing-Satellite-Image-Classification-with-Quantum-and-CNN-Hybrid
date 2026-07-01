@@ -1,0 +1,1 @@
+# Remote-Sensing-Satellite-Image-Classification-with-Quantum-and-CNN-Hybrid
